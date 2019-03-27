@@ -2,6 +2,6 @@ Mars is a planet.
 It is far away.
 That is a good thing.
 This is text added by Beth
-
+A practice line 
 This new line is added by Kristen.
 
